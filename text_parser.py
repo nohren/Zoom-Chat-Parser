@@ -3,7 +3,7 @@ import pandas as pd
 from pandasgui import show
 import re
 
-#/Users/orennelson/Desktop/meeting_saved_chat.txt
+#/Users/<username>/Desktop/meeting_saved_chat.txt
 
 def topic_parser(file_path, topic_array):
     #init topic array, the shorter the better, longer words are more specific
