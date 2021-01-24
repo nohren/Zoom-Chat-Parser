@@ -3,8 +3,6 @@ import pandas as pd
 from pandasgui import show
 import re
 
-#/Users/<username>/Desktop/meeting_saved_chat.txt
-
 def topic_parser(file_path, topic_array):
     #init topic array, the shorter the better, longer words are more specific
     # topic_array = ['sleep', 'food', ' eat ', 'relax', 'workout', 'hack reactor', 'imposter', 'help desk', 'water', 'docs']
