@@ -9,6 +9,6 @@ Instructions:
    python script.py -i path -l items -h help
    
    example:
-   python text_parser.py -i /Users/username/Desktop/meeting_saved_chat.txt -l 'sleep' 'relax' 'exercise' 'imposter' 'docs' 'water' 'help desk' 'food' 'routine'
+   python text_file_parser.py -i /Users/username/Desktop/meeting_saved_chat.txt -l 'sleep' 'relax' 'exercise' 'imposter' 'docs' 'water' 'help desk' 'food' 'routine'
 
 Use for any text file!
