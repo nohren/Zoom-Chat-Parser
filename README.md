@@ -1,5 +1,5 @@
 # text_file_parser
-A short script that can search relevant comments in a file by topic.  It displays the sifted info in a pretty GUI.   
+A short script for searching relevant words by topic and then displaying the info in a pretty GUI.   
 
 Instructions:
 1. Copy code into script.py
