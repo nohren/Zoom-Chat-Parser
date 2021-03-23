@@ -1,4 +1,4 @@
-# text_file_parser
+# Zoom Chat Parser
 A short script for searching relevant words by topic and then displaying the info in a pretty GUI.   
 
 Instructions:
