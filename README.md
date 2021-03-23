@@ -1,5 +1,5 @@
 # Zoom Chat Parser
-A short script for searching relevant words by topic and then displaying the info in a pretty GUI.   
+In case you missed most of the chat while you were listening to the interesting speakers, here is a short script for searching relevant words by topic and then displaying the info in a pretty GUI.   
 
 Instructions:
 1. Copy code into script.py
